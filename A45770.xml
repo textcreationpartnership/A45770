@@ -1,0 +1,208 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An important query for protestants viz. can good come out of Galilee? or, Can a popish ruler propagate the reform'd religion?</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45770</idno>
+            <idno type="STC">Wing I102</idno>
+            <idno type="STC">ESTC R19967</idno>
+            <idno type="EEBO-CITATION">11766909</idno>
+            <idno type="OCLC">ocm 11766909</idno>
+            <idno type="VID">48782</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A45770)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 48782)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 539:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An important query for protestants viz. can good come out of Galilee? or, Can a popish ruler propagate the reform'd religion?</title>
+               </titleStmt>
+               <extent>[2], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for G.L. and J.H.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>James --  II, --  King of England, 1633-1701.</term>
+               <term>Great Britain --  History --  James II, 1685-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-04</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-04</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:48782:1"/>
+            <pb facs="tcp:48782:1"/>
+            <p>AN IMPORTANT QUERY FOR PROTESTANTS <hi>VIZ.</hi> Can Good come out of <hi>Gallilee?</hi> Or, Can A Popiſh Ruler Propagate the REFORM'D RELIGION?</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>G. L.</hi> and <hi>J. H.</hi> 1688.</p>
+         </div>
+      </front>
+      <body>
+         <div type="query">
+            <pb facs="tcp:48782:2"/>
+            <pb n="1" facs="tcp:48782:2"/>
+            <head>AN IMPORTANT QUERY FOR PROTESTANTS: <hi>VIZ. Can Good come out of</hi> Gallilee? <hi>&amp;c.</hi>
+            </head>
+            <p>IF the Huffs and Hot-ſpurs of this Age and Juncture were onely among the <hi>Seculars;</hi> 't were hopeful that their re<g ref="char:EOLhyphen"/>ſpective <hi>Regulars</hi> might reclaime them; but if they kindle the fire, who ſhould quench it? A blaze or breaking forth muſt be otherwiſe prevented.</p>
+            <p>
+               <hi>Religion</hi> and <hi>Reaſon</hi> are, or ought to be, the Guides of man<g ref="char:EOLhyphen"/>kind; by an Examen of both, the Queſtion in the Front will be anſwered.</p>
+            <p>To Parallel any earthly <hi>Monarch</hi> with the heavenly <hi>King of Kings,</hi> is too heatheniſh for this part of the World called <hi>Chri<g ref="char:EOLhyphen"/>ſtendom:</hi> And therefore to animadvert onely upon the blindneſs of thoſe Zealots for <hi>Law</hi> and <hi>Temple,</hi> that ſaid, <hi>Out of Gallilee ariſes no Prophet;</hi> That part of <hi>Paleſtine</hi> bordering upon the <hi>Gentiles,</hi> and influened by the maritine Traffick of <hi>Tyre,</hi> as alſo with the People of thoſe twenty Citys near it, which <hi>Solomon</hi> gave King <hi>Hiram;</hi> 'tis probable they wee more heatheniſh and averſe to the <hi>Jewiſh</hi> Religion and way of Worſhip, then thoſe of <hi>Judea,</hi> where Chriſt was indeed born, <hi>viz.</hi> in <hi>Bethlehem,</hi> but educated in <hi>Nazareth,</hi> a City in that part of the Country called <hi>Gallilee of the Gentiles,</hi> where he did his firſt miracle, <hi>viz.</hi> in <hi>Cana, turning Water into Wine;</hi> notwithſtand<g ref="char:EOLhyphen"/>ing which, the <hi>Jews</hi> beleeved him not, though 'tis ſaid the <hi>Galli<g ref="char:EOLhyphen"/>leans received Him. Job.</hi> 4.45</p>
+            <pb n="2" facs="tcp:48782:3"/>
+            <p>Now if conceſſion of <hi>intire conſciencions liberty, viz.</hi> without conſtraint or reſtraint, be a Chriſtian Goſpel practiſe, though thereby <hi>tares</hi> be ſuffered <hi>to grow</hi> with the <hi>good ſeed</hi> till the World's end; then, 'tis to be fear'd, that thoſe who decry it, do mi<g ref="char:EOLhyphen"/>ſtake themſelves, and the moſt true Religion; themſelves, by ſaying <hi>they are inward Jews,</hi> and (for want of the heart Cir<g ref="char:EOLhyphen"/>cumciſion) <hi>are not:</hi> and the true Religion, by <hi>teaching for do<g ref="char:EOLhyphen"/>ctrine the Commandements of Men,</hi> but dis-allowing the precepts or dictates of Chriſt to the conſcience, without (but eſpecially againſt) which, all outward conformity <hi>not being of Faith, is fin.</hi>
+            </p>
+            <p>And to let paſs the want of an Example in this kind among all our <hi>Proteſtant Monarchs,</hi> for breaking thoſe yokes of the worſt kind, both in later and former years, ſince the firſt <hi>Chri<g ref="char:EOLhyphen"/>ſtian Emperour Conſtantine,</hi> 'tis apparent that this among us is done by a <hi>King</hi> of another communion then what is called <hi>Refor<g ref="char:EOLhyphen"/>med,</hi> which makes the greater wonder; and why of Offence, rather then Approbation?</p>
+            <p>That <hi>Saul,</hi> when annoynted King, ſhould be <hi>among the Pre<g ref="char:EOLhyphen"/>phets,</hi> and he of the ſame name, after his converſion, among the <hi>Apoſtles,</hi> though a <hi>Perſecuter</hi> afore; was a ſudden and unexpected change; but that <hi>meat</hi> ſhould <hi>come forth from the Eater, and from the ſtrong ſweetneſs,</hi> was a riddle that <hi>Iſraell</hi>'s oppreſſors could never underſtand, till they <hi>plowed with a Heifer</hi> which was none of their own.</p>
+            <p>That <hi>Sion</hi> ſhould <hi>be in pain like a Woman in travel, go forth of the City</hi> (of viſible or outward ſafety) <hi>and dwell in the Field</hi> (a ſtate of ſuffering or Expoſure) and after this <hi>go even to Babylon, and there be delivered,</hi> yea, there <hi>be redeemed by Almighty God from the hand of her Enemys,</hi> all which ſeemes a great Myſtery, but is alſo as great a Truth: and ſo it is, that God ſome<g ref="char:EOLhyphen"/>times chuſes the <hi>deſpiſed things of this World,</hi> and things <hi>that are not (at leaſt in appearance) to brings to nought things that are.</hi>
+            </p>
+            <p>'Tis obvious, that many Men are this day out-gone, both in their Faith and Reaſon, by a Roman Prince, in granting ſuch <hi>intire Chriſtian Liberty,</hi> which was hitherto deny'd by former Pro<g ref="char:EOLhyphen"/>teſtant Powers of all ſorts; and as it was a deſpis'd incredible notion before, ſo 'tis now credible, becauſe a real practiſe or performance: Let then the <hi>viſible establiſh'd</hi> Church, take heed, ſhe be not <hi>brought to nought,</hi> by the un-ſeen Church in <hi>Legal eſta<g ref="char:EOLhyphen"/>bliſhment,</hi>
+               <pb n="3" facs="tcp:48782:3"/>whether it be on her right or leſt hand.</p>
+            <p>Poſſibly 'twill be ſaid theſe are but <hi>cloudy Allegorys:</hi> Therefore to ſpeak more plainly, A Popiſh Ruler promotes the <hi>Prote<g ref="char:EOLhyphen"/>ſtant Reformed Religion,</hi> by granting <hi>intire</hi> conſciencious <hi>Liberty;</hi> whereas a Proteſtant Church or Ruler, denying it, Stops it's growth or progreſs: For theſe Reaſons,</p>
+            <p n="1">1. As <hi>light</hi> ſpreads it ſelf into a Houſe with <hi>windows open,</hi> ſo it enters not when they are <hi>ſhut,</hi> but by un-expected cracks or creviſes of wind and weather's making, like thoſe convictions, which grow upon the World by the ſtormes of Perſecution rais'd againſt innocent Sufferers: and Man's <hi>ſpirit</hi> being <hi>the candle of the Lord,</hi> the ſiery zeale of pretenders to ſnuff it by humane violence, tends rather to dim or extinguiſh it's light, then clear it; at leaſt if the rare attainment of <hi>perfect love,</hi> which <hi>caſts out all fear,</hi> be wanting to revive the flame: there<g ref="char:EOLhyphen"/>fore whether a Church of ſecular power, that <hi>quenches the ſmo<g ref="char:EOLhyphen"/>king flax,</hi> or a Ruler that cheriſhes it with reviving incourage<g ref="char:EOLhyphen"/>ment, till it become a <hi>ſhinign flame,</hi> be moſt agreeable to the Principle and Practiſe of the Gallilcan Prophet, is a queſtion ſoon anſwered.</p>
+            <p n="2">2. The Popiſh Ruler by giving liberty does his part very ho<g ref="char:EOLhyphen"/>nourably to make Religion appear <hi>bare-fac't;</hi> whereas the Pro<g ref="char:EOLhyphen"/>teſtant Church or Ruler denying the like freedom, propagate their Religion not ſo truly as in <hi>dis-guiſe</hi> or <hi>maſquerade.</hi>
+            </p>
+            <p n="3">3. A Popiſh Ruler giving liberty draws to his Religion with the cords of a Man, but a Proteſtant Church or Ruler dealing by force of more then perſwaſion and example, makes beaſtly markes or impreſſions, which are altogether inferiour to the glorious conduct of the Divine Nature, and tending much to de<g ref="char:EOLhyphen"/>baſe the Humane.</p>
+            <p n="4">4. A Popiſh Ruler by giving liberty, does actually allow of light, both higher and lower then his own, among the people under him; the Proteſtant Ruler denying it on behalf of a Church that pretends not to infallibility, impoſing his meaſure of light, it appears but dim, if not darkneſs, to them who for ought he knows are more inlightned then himſelf.</p>
+            <p n="5">5. A Popiſh Ruler giving liberty of a publick way of Worſhip not agreable to his own, ſeemes to have a love for ſtrangers, if not Enemys to his Religion, which is his neareſt concern; where<g ref="char:EOLhyphen"/>as a Proteſtant Ruler denying it, appears to hate, or at leaſt
+<pb n="6" facs="tcp:48782:4"/>dis-countenance his very freinds, becauſe not of his own mea<g ref="char:EOLhyphen"/>ſure.</p>
+            <p n="6">6. A Popiſh Ruler by granting conſciencious liberty, pro<g ref="char:EOLhyphen"/>motes that Goſpel-variety which is of the new World, while a Proteſtant Church or Ruler by reſtraint to one meaſure of light, admits not the growth of all thoſe Plants, which are of the heavenly Father's planting, becauſe he neither knows nor under<g ref="char:EOLhyphen"/>ſtands them: the tree of life bears no leſs then twelve man<g ref="char:EOLhyphen"/>ner of fruits, yielding them monethly, and her leaves are for healing of the nations, the benefit whereof is not taſted either by Men or Chriſtians univerſally, where the pail of incloſure is for one ſort onely.</p>
+            <p n="7">7. A Popiſh Ruler giving liberty of conſcience, convinces Gain-ſayers, that his way is right, leading to the true End of ſaving Soules, by allowing every one to ſearch and try what is Truth; whereas a Proteſtant Church or Rulers otherwiſe begets ſuſpicion upon the end, though true, becauſe the way is wrong, or at leaſt right in their own Eyes onely.</p>
+            <p>'Tis ſaid that ſeven is a perfect number, and though more may be added, yet let theſe ſuffice, at leaſt, for one ſheet, to evince the poſſibility of that to be a truth which is aſſerted to be improbable.</p>
+            <p>And further to be yet more plain. The cry is, Proteſtant liberty is granted for a while, onely to umbrage the eſtabliſhing the Popiſh much longer.</p>
+            <p>This is <hi>Charity</hi> of a different kind from that which <hi>thinkes no evil, but bears, hopes, believes and indures all things:</hi> yet admit this liberty ſhould prove ſhorter liv'd than ſome that wiſh't it an abortive; 'tis asked under what Perſons in power had it ſuch an <hi>avow'd birth</hi> even thus long, for ſome by-paſt <hi>thouſands of years?</hi> Muſt we not revert back to thoſe heathen Monarchs, <hi>Cy<g ref="char:EOLhyphen"/>rus, Darius</hi> and <hi>Artaxerxes,</hi> for a Precedent, who decreed re<g ref="char:EOLhyphen"/>building the walls of <hi>City</hi> and <hi>Temple,</hi> thereby promoting a <hi>Reli<g ref="char:EOLhyphen"/>gion</hi> and Worſhip not their own, and to which they were Stran<g ref="char:EOLhyphen"/>gers?</p>
+            <p>But further, is <hi>Chriſt preach't out of Envy,</hi> and ſhall they who profeſs doing it of <hi>good will,</hi> be ſorry or offended? Will it hot make their <hi>miſſion</hi> as queſtionable, as that Apoſtle's was <hi>clear,</hi> who in that caſe profeſs't <hi>his rejoycing?</hi>
+            </p>
+            <p>Are <hi>Embeſſadours</hi> true to their <hi>Prince,</hi> who repine at his bud<g ref="char:EOLhyphen"/>ding
+<pb n="7" facs="tcp:48782:4"/>intereſt among a people forreign to his own <hi>Dominion?</hi> can that <hi>light</hi> wherein the <hi>Everlaſting Goſpel of the Kingdom</hi> ſhall be publiſht to all nations, admit ſuch <hi>darkneſs?</hi> or its true effect, viz. <hi>love to Enemies,</hi> conſiſt with ſuch <hi>diſſimulation</hi> to very Friends, who are only tolerated to Preach in <hi>corners,</hi> without publick maintenance; and ſhall they who have it without grudging, and in <hi>the chief places of concourſe,</hi> be angry or offended at them? For ſhame let them <hi>forgive this wrong.</hi>
+            </p>
+            <p>Now if <hi>jealouſy</hi> (which is ſaid to be <hi>the rage of a man</hi>) ſhould provoke a Ruler againſt ſuch as cauſe his <hi>Good to be evil ſpoken of,</hi> at whoſe door will be laid the offence? And if ſome weak Pro<g ref="char:EOLhyphen"/>teſtants ſhould diſ-like the way of <hi>Perſecuting</hi> or <hi>Impoſing</hi> upon <hi>Conſcience,</hi> ſo as to queſtion the truth of their own Religion for their ſakes that propagate it, by ſuch wrong means, and incline to thoſe who do otherwiſe, how will it be anſwer'd by ſuch as lay the <hi>Stumbling-block?</hi>
+            </p>
+            <p>It muſt be acknowledged that all our outward attempts to force <hi>Conſcience,</hi> though never ſo Erroneous, are to be <hi>exploded</hi> by the very <hi>light of Nature,</hi> as well as <hi>Grace;</hi> not only becauſe 'tis apt to <hi>recoile</hi> againſt that which does not convince, but alſo a man's <hi>Conſcience</hi> is not in his power: For though <hi>Fleſh and Blood can never inherit God's Kingdom,</hi> yet in this caſe it ſuffers with ſuch <hi>Innocence</hi> as if it were <hi>holy,</hi> becauſe 'tis not, nor ought to be, the Souls leader, but follower; and its true fault (though for ſuffering wrongfully) would be to aſſume the contrary.</p>
+            <p>And if on theſe Principles, which are common to thoſe of both Religions, as well the Proteſtant as the Papiſt, this Liber<g ref="char:EOLhyphen"/>ty be granted, is it not a <hi>Royal Favour</hi> to be ſhewn without dif<g ref="char:EOLhyphen"/>ference or diſtinction, for <hi>Charity</hi> it ſelf <hi>begins at home?</hi> And therefore if it be extended in other matters to thoſe of the Kings own Communion, in the firſt place, 'twould ſeem ungrateful to regret; not only becauſe 'tis below Chriſtians to be much con<g ref="char:EOLhyphen"/>cern'd for more then their proper Intereſts, <hi>viz. Of ſerving God without the fear of men,</hi> but alſo that it appears a kind of impoſure upon a Supream Ruler, eſpecially that ſtrains his An<g ref="char:EOLhyphen"/>thority to make all the People under him as free as himſelf, for any of them to be un-ſatisfied, in wanting a ſhare of rule in the things of Men.</p>
+            <p>If <hi>Chriſt's Kingdom be not of this World,</hi> his true Diſciples ſhould rather <hi>fear</hi> then <hi>deſire</hi> to be great on Earth, that thereby
+<pb n="8" facs="tcp:48782:5"/>they loſe the ſence or ſight of his more ſpiritual Realm or Do<g ref="char:EOLhyphen"/>minion, which <hi>is in Righteouſneſs, Peace, and Joy in the Holy Ghost.</hi>
+            </p>
+            <p>The <hi>charming</hi> Priviledges of a <hi>private Life</hi> both for Soul and Body, do far tranſcend the vain ſhews which may be expected to walk in, by thoſe who are ignorant of a <hi>Publick,</hi> wherein a <hi>ſeem<g ref="char:EOLhyphen"/>ing Ruler</hi> over ſome few, that bare the Head and bow the Knee, is (if he does his duty) but a <hi>real Servant</hi> to all.</p>
+            <p>And if a man hath indeed a meaſure of that true <hi>Wiſdom which is from above,</hi> 'twill conſtrain his readineſs to ſay in like caſe as <hi>Daniel</hi> did to <hi>Belſhazer,</hi> on his offer of the <hi>ſcarlet Robe,</hi> a <hi>Golden Chain,</hi> and <hi>the third place</hi> of authority <hi>in the Kingdome, Let the Kings gifts be to himſelf, and his rewards to another.</hi>
+            </p>
+            <p>But further, Are not the Proteſtant Diſſenters the Kings new friends, and of no other then his own making? Which being ſo, <hi>a peck of Salt,</hi> according to the proverb, is but proper to ſeaſon the confidence of <hi>new Acquaintance:</hi> The moral or application of which in this caſe may be ſerious, <hi>viz.</hi> That if the Diſſenting Pro<g ref="char:EOLhyphen"/>teſtants do become (as Chriſt's Diſciples) the true <hi>Salt of</hi> our Engliſh Earth, to ſeaſon the places where their lot is caſt, with ſuch ſavory Principles and Practiſe; of <hi>Self-denial, Humility,</hi> and <hi>Holineſs,</hi> as by <hi>Fearing God</hi> and <hi>Honouring the King,</hi> the Peo<g ref="char:EOLhyphen"/>ple may be convinc't of their Religion and Loyalty, the impute of Schiſme and Rebellion will gradually vaniſh, and make way for their better acceptance. Mean while, if apprehenſions ſhould re<g ref="char:EOLhyphen"/>main that the <hi>Romiſh Religion</hi> is like to be longer liv'd in <hi>England</hi> than a <hi>Proteſtant Toleration;</hi> there is one word more then hath been mentioned, tending to chek all ſuch ſurmiſes, even beſides all thoſe outward arguments already publiſht, of <hi>Solemn Publick Declarati<g ref="char:EOLhyphen"/>on,</hi> a great <hi>overballance in number; ſecular Intereſt,</hi> &amp;c.</p>
+            <p>And that is, The calling to mind, that the moſt High God rules, who by means known and unknown, can turn the point of good or ill upon the Deceiver or Deceived, ſince both are his; and thereby cauſe the living to know that he alone rules in the Kingdom of men, giving it to whomſoever he will, as beſt ſuits his holy ends and concerns in this lower world, whether they be Recieved or Rejected by preſent or future Generations.</p>
+            <p>Yet more particularly: A Kings Prerogative, as ſecond to that of Chriſt, is very ſtrong; and as <hi>Solomon</hi> ſays, <hi>Two are better then One, and a threefold cord is not eaſily broken;</hi> for if this work of
+<pb n="9" facs="tcp:48782:5"/>
+               <hi>Chriſtian Liberty</hi> be of God (which is indubitable) as well as the King, the conſciencious People of all ſorts are a third and numerous Party concern'd in its benefit, who by their Faith and Prayers will make many an <hi>Effort</hi> at Heaven-gates, rather then loſe their <hi>New obtain'd Freedom.</hi>
+            </p>
+            <p>The Captive Iſraelites being once ſet free by the Decree of <hi>Cyrus</hi> to re-build the <hi>Temple,</hi> tho ſtop't in their Work by his Succeſſors, yet they went on without any more licence upon Earth, being ſtirr'd up to it from Heaven by the <hi>Prophets,</hi> tho confirm'd afterwards by King <hi>Darius.</hi>
+            </p>
+            <p>Queen <hi>Eſther's,</hi> addreſſing (un-call'd) to King <hi>Ahaſuerus,</hi> after ſolemn Faſting and Prayer, was <hi>againſt Law.</hi>
+            </p>
+            <p>The <hi>three Children's</hi> not bowing to <hi>Nebuchadnezar</hi>'s Image, <hi>Daniell</hi> praying with his <hi>windows open as at other times</hi> not with<g ref="char:EOLhyphen"/>ſtanding the decree'd prohibition:</p>
+            <p>All theſe were publick breaches and affronts to the Laws of thoſe Kingdoms reſpectively, and after the <hi>Saints</hi> aforemen<g ref="char:EOLhyphen"/>tioned had broke thoſe Laws to keep <hi>Gods Law,</hi> the Kings being convinc't, changed their Decrees contrary to their reſpective conſtitutions, and tho they were heathen, yet they owned the true God and thoſe that ſerv'd Him, contrary to their own <hi>Laws</hi> and Religion.</p>
+            <p>The Decrees of <hi>Heaven</hi> are indeed un-changeable, but the Laws of Men are mutuable like themſelves; and thoſe Kings or Rulers who change for the better, as his intereſt leads them, who is <hi>King of Kings,</hi> they will find it their own intereſt alſo, to indulge them who are his free or new born People, in pur<g ref="char:EOLhyphen"/>ſuance of what is promis'd, that <hi>Strangers ſhall build up their Walls, and their Kings Miniſter to them, for that Nation and Kingdom which will not ſerve them ſhall periſh.</hi> Yea <hi>thoſe Nations ſhall be utterly waſted.</hi>
+            </p>
+            <p>It appears then that the intereſt of the <hi>conſciencious People,</hi> which is <hi>Liberty,</hi> hath an <hi>aſcendent</hi> over other Nations no leſs then that part of their own which would keep them in bondage, whereof <hi>Iſraells</hi> being led by a high hand out of <hi>Egypt</hi> to do their <hi>Sacrifice to God,</hi> and <hi>Spoyling the Egyptians</hi> who had detain'd them ſome time from it, as they alſo deſtroy'd the <hi>ſeven Nations</hi> in and near <hi>Canaan</hi> that reſiſted them, is a great Example.</p>
+            <p>Therefore is it the Kings wiſdom to ſuſpend the Execution of thoſe Laws, which in themſelves are already void on God's ac<g ref="char:EOLhyphen"/>count,
+<pb n="10" facs="tcp:48782:6"/>who being the <hi>ſupreame Legiſlator of Heaven and Earth,</hi> ought, as the Apoſtles ſaid, to be <hi>obeyed rather then Men:</hi> For if a Law ſhould be made, that Men muſt not eat when they are hungry, not drink when they are thirſty, 'tis not to be obeyed, becauſe againſt nature; ſo if a Law be made, that Men muſt not pray, when Gods word ſays they ſhould do it always and every where, or if a Law be to forſake aſſembling together as the manner of ſome is, which the Scripture plainly forbids; ſuch Laws are as much againſt the Heavenly <hi>Divine Nature,</hi> as thoſe aforementioned are againſt the <hi>Humane.</hi>
+            </p>
+            <p>Nor is Gods Law made <hi>for the Righteous, but for the Lawleſs and diſobedient, profane, unholy,</hi> &amp;c.</p>
+            <p>And if there be a People in the Kings Dominions, againſt whom is <hi>no Condemnation,</hi> but <hi>are free from the Law of Sin and Death,</hi> then ſurely the Kings late conceſſion of no New Liberty, but that of <hi>Conſcience,</hi> does import, that his royal intentions are onely to free them from <hi>Mans condemnation</hi> whom he thinks <hi>God doth not condemne,</hi> for <hi>if our hearts condemne us not,</hi> then <hi>our confidence towards God</hi> is very alowable, not withſtanding all that can be ſaid by the Men of <hi>Judea</hi> againſt thoſe of <hi>Gallilee.</hi>
+            </p>
+            <p>Nor is this way of promoting the Proteſtant Religion, by a Roman Ruler more decry'd by them that disbelieve it, then the <hi>Samaritan</hi> party was miſtaken, when they thought that <hi>Darius</hi> would not favour the <hi>Jews,</hi> of old by decreeing their <hi>re-building</hi> the <hi>Temple</hi> after they had expreſs't ſuch confidence to begin a new to do it againſt the prohibition of his Predeceſſors.</p>
+            <p>Now if God ceaſes not to raiſe ſuch unexpected Inſtruments to carry on his Work, as are or have been miſtruſted to check, or obſtruct it; how ill will it become the Leaders or Fathers of our <hi>Reformed</hi> (at leaſt ſo called) <hi>Church</hi> not to further and im<g ref="char:EOLhyphen"/>prove this late granted Liberty, ſince 'tis their place and pro<g ref="char:EOLhyphen"/>feſſion to help, not hinder all Male-births of righteouſneſs and holineſs whatſoever.</p>
+            <p>For God cau change the Heart not only of <hi>Prince</hi> but <hi>People</hi> alſo, and 'twill reflect much upon us called <hi>Proteſtants,</hi> to retain a ſpirit of <hi>Perſecution</hi> and averſion to <hi>Liberty,</hi> when <hi>Papiſts</hi> themſelves ſhall renounce the one and embrace the other.</p>
+            <p>And if the day be come, or near it, wherein 'tis promiſed, That <hi>the Egyptians ſhall know the Lord, do Sacrifice and Oblation,</hi> yea, <hi>Vow a Vow unto God and perform it,</hi> then we ſhould be cauti<g ref="char:EOLhyphen"/>ous
+<pb n="11" facs="tcp:48782:6"/>of blaſting them, whom God ſnall bleſs with a <hi>new Nime</hi> and <hi>Nature;</hi> for if this be the ſeaſon wherein God himſelf ſays, <hi>Bl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſed be Egypt my People,</hi> 'tis not for us Chriſtians to maintain <hi>partition walls</hi> longer 'twixt us and the very <hi>Heathen</hi> themſelves, becauſe they are ſaid to be <hi>Chriſts Inheritance,</hi> and in <hi>Every Na<g ref="char:EOLhyphen"/>tion he that feareth God and worketh Righteouſneſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, is accepted of him,</hi> how then can we proſper by rejecting ſuch as God accepteth?</p>
+            <p>Hence is it therefore that this conceſſion of <hi>Intire Liberty</hi> made by the King of <hi>Great Britain,</hi> tends to his immortal Ho<g ref="char:EOLhyphen"/>nour, as he is in this manner, not only a <hi>Prince</hi> of a very great People, but as by this action he is become a <hi>Nurſing Father,</hi> to all, of all ſorts under him, in their Religious or Chriſtian Rights, which are much more dear and near to them, then what is Civil; not but that their enjoyment of both is their Confidence, becauſe the Greater always comprehends the Leſs.</p>
+            <p>And if this intire Liberty had found its happy birth before the the unhappy Wars broke forth againſt <hi>King Charles</hi> the Firſt, 'tis very improbable, that their ſucceſs had been as it was; much more that our preſent <hi>King James</hi> the Second, had been neceſſi<g ref="char:EOLhyphen"/>tated to raiſe new Arms againſt his Enemies; and indeed the Blood which hath been ſpilt for more then ſorty years paſt, might have been prevented.</p>
+            <p>But bleſſed be God, that better late then never, we can now bid this <hi>new Pranciple and Practice</hi> welcome into the <hi>old World,</hi> which will cauſe our <hi>Swords to be turned into Plowſhares, and Spears into Pruning-Hooks,</hi> and will inſtruct us of this Nation, yea the Rulers and People of other Nations, as they ſhall receive and become ſubject to it, <hi>to learn War no more.</hi> For this <hi>intire Liberty</hi> hath made as intire and compleat a conqueſt which is of <hi>Hearts,</hi> far exceeding that of <hi>Hands,</hi> becauſe as the King hath ſet us free to ſerve the living God without the fears of Men, ſo do we avow our ſelves bound to the King in intereſt and duty by ſtronger bonds, then <hi>Slaviſh Fear</hi> or <hi>Impos'd Oaths</hi> can oblige.</p>
+            <p>And our defect of duty to the King, will be now no leſs to our ſelves, ſince his Government is made thus eaſy, for as his Throne is clothed with <hi>double Honour,</hi> ſo that part of the people, who by his gracious Indulgence are relieved from their <hi>harraſing Catch-Poles and Perſecuting Informers,</hi> will be <hi>doubly guilty,</hi> if de<g ref="char:EOLhyphen"/>nying <hi>Caeſar</hi> his due, becauſe we are the chief <hi>Criminals,</hi> if not
+<pb n="12" facs="tcp:48782:7"/>giving God his due, ſince the King is pleaſed ſo freely to allow, and incourage it.</p>
+            <p>And further if the Kings Heart be in <hi>Gods hand to turn as the rivers of Water,</hi> what will they reſemble, who would dam or ſtop his Chriſtian and Royal Progreſs, but perſons of an <hi>Ear<g ref="char:EOLhyphen"/>thy Principle and Practice,</hi> for thoſe inferiour ends which are not without regret, to be named among us who are called Chri<g ref="char:EOLhyphen"/>ſtians?</p>
+            <p>Nor is it for thoſe, who very ſenſibly feel the warmth of this late and <hi>new Protection</hi> to heſitate the Kings prevailing Perſwa<g ref="char:EOLhyphen"/>ſion of the <hi>National Aſſembly</hi> (when called) to agree to this ſo <hi>
+                  <g ref="char:V">Ʋ</g>niverſal a good for Mankind,</hi> by freeing their better and more noble part from thoſe Impoſures, with which the more degene<g ref="char:EOLhyphen"/>rous ſort of men have attempted to Embondage them.</p>
+            <p>Now in this procedure, who can ſay leſs, than, <hi>God</hi> Proſper and Save (yea <hi>Save Eternally</hi>) the King of Great <hi>Britain,</hi> who having almoſt incredibly (till Royally Perform'd) thus out done, not only all his Home-born Predeceſſors, but his Forreign, Beſt and Greateſt Neighbours, whether they be <hi>Crowned Heads</hi> or <hi>Free-States:</hi> If therefore it ſhall pleaſe God to inrich his Royal Heart with <hi>Grace,</hi> ſo as to go on as he hath begun, the potent intereſts of <hi>France</hi> and <hi>Spain</hi> muſt ſoon bow to him, as he be<g ref="char:EOLhyphen"/>comes more juſtly Aggrandiz'd with the titles of moſt Chriſtian and moſt Catholick King, not only in <hi>Europe,</hi> but in the knows World.</p>
+            <trailer>FINIS</trailer>
+            <pb facs="tcp:48782:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
